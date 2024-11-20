@@ -30,6 +30,7 @@ pydantic = "^2.9.2"
 pydantic-settings = "^2.5.2"
 anyio = "^4.6.2.post1"
 coverage = {extras = ["toml"], version = "^7.6.4"}
+clickhouse-connect = "^0.8.6"
 
 
 [tool.poetry.group.dev.dependencies]
